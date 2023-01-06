@@ -1,0 +1,8 @@
+{
+  "name": "@twfoundation/assets",
+  "version": "1.0.0",
+  "license": "MIT",
+  "directories": {
+    "logo": "./logo"
+  }
+}
